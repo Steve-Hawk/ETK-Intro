@@ -1,1 +1,1 @@
-* Some paper and algorithms applied in ETK
+* Some notes when I first leanned Einstein Toolkit.
